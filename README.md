@@ -1,2 +1,2 @@
 alais_0
-#alx-system_engineering-devops
+delete files or directories
